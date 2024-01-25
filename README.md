@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishnu Ravva</h1>
-<h3 align="center">Full Stack Explorer | Ex-SD Intern at Mugen Software Design | Diving deeper into Tech</h3>
+<h3 align="center">Frontend Developer at InnoByte Services| Full Stack Explorer | Ex-SD Intern at Mugen Software Design | Diving deeper into Tech</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuravva&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuravva" /> </p> -->
 
