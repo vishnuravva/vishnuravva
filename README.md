@@ -7,9 +7,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@vishnuravva" target="blank"><img src="https://img.shields.io/twitter/follow/@vishnuravva?logo=twitter&style=for-the-badge" alt="@vishnuravva" /></a> </p> -->
 
-- 🌱 I’m currently learning **Redux, TypeScript, DSA**
+- 🌱 I’m currently learning **Java, Hibernate, Springboot, DSA,**
 
-- 💬 Ask me about **Web Dev, Full Stack**
+- 💬 Ask me about **Web, Java**
 
 - 📫 How to reach me **ravvavishnu68@gmail.com**
 
