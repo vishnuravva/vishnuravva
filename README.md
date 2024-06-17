@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ravvavishnu68@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y7j44Ne6ojRnLivlvYMYMi7l4zCOWVlV/view?pli=1](https://drive.google.com/file/d/1ZeixP2GwstnHlaR1SaWKY767TFWqaaoN/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1y7j44Ne6ojRnLivlvYMYMi7l4zCOWVlV/view?pli=1](https://drive.google.com/file/d/1cYEVXieab8oKvG0lkHM9SR5Io1-5J-rt/view?usp=drive_link)
 
 - ⚡ Fun fact **A bit lazy but dedicated**
 
