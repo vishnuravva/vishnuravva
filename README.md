@@ -1,85 +1,167 @@
-<h1 align="center">Hi 👋, I'm Vishnu Ravva</h1>
-
-<h3 align="center">Business Applications Developer · Zoho Ecosystem Specialist · Exploring AI Engineering & Automation</h3>
-
+<!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Automating+business+processes+on+Zoho;Building+apps+that+solve+real+business+problems;Exploring+Python+%26+AI-driven+automation" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1F4E9C&height=190&section=header&text=Vishnu%20Ravva&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Business%20Applications%20Developer%20%E2%80%A2%20Zoho%20Ecosystem%20%E2%80%A2%20Automation&descSize=16&descAlignY=58" alt="Vishnu Ravva" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=640&lines=I+turn+manual+business+processes+into+automated+systems;Zoho+CRM+%E2%80%A2+Creator+%E2%80%A2+Analytics+%E2%80%A2+Catalyst;Now+exploring+Python+and+AI-driven+automation" alt="Typing intro" />
+</p>
 
-### 🧑‍💻 About me
+<p align="center">
+  <a href="https://linkedin.com/in/vishnu-ravva"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Experience-3%2B_years-1F4E9C?style=for-the-badge" alt="3+ years experience" />
+  <img src="https://img.shields.io/badge/Focus-Business_Automation-0E75B6?style=for-the-badge" alt="Focus: business automation" />
+</p>
 
-For the past **3+ years** I've been building **business applications on the Zoho ecosystem**, automating everyday processes and delivering solutions that make a measurable difference for the teams who use them.
+<br>
 
-- ⚙️ Designing workflows, custom functions and integrations across **Zoho CRM, Creator, Analytics and Catalyst**
-- 📊 Turning manual, spreadsheet-driven processes into automated, reportable systems
-- 🔗 Connecting Zoho with external platforms through APIs and webhooks
-- 🐍 Currently exploring **Python** and moving towards **AI engineering**, **automation**, and **business solution design**
+## 👋 About me
 
-Previously a Software Developer at **Mugen Software Design** and **Innobyte Services**.
+<table>
+<tr>
+<td width="55%" valign="top">
 
----
+I build **business applications that teams actually use**. For the past **3+ years** I've worked across the **Zoho ecosystem**, designing workflows, custom apps and integrations that replace manual effort with reliable automation.
 
-### 🛠️ Current tech stack
+I enjoy sitting between the business and the code: understanding how a team really works, then shaping the system around it.
 
-<p align="left">
+Right now I'm extending that into **Python and AI engineering**, bringing intelligent automation into everyday business processes.
+
+</td>
+<td width="45%" valign="top">
+
+```yaml
+name: Vishnu Ravva
+role: Business Applications Developer
+experience: 3+ years
+core:
+  - Zoho CRM
+  - Zoho Creator
+  - Zoho Analytics
+  - Zoho Catalyst
+languages: [Deluge, Python, JavaScript, Java]
+exploring: [AI engineering, LLM automation]
+previously: [Mugen Software Design, Innobyte Services]
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🧩 What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ CRM customisation & automation
+Workflows, blueprints, assignment logic and custom functions in **Zoho CRM** that keep leads and deals moving without manual follow-up.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧱 Custom business apps
+Purpose-built apps on **Zoho Creator** for operations, approvals, partner portals and internal tools, from forms to full workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 Dashboards & reporting
+**Zoho Analytics** reports that give managers a clear, live view of pipeline, performance and operations.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔗 Integrations & backends
+APIs, webhooks and serverless functions on **Zoho Catalyst** to connect Zoho with the rest of the business stack.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🔄 How I work
+
+<p align="center">
+  <img src="https://img.shields.io/badge/1-Understand_the_process-E8F0FE?style=flat-square&labelColor=0E75B6" alt="1 Understand the process" />
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/2-Design_the_solution-E8F0FE?style=flat-square&labelColor=0E75B6" alt="2 Design the solution" />
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/3-Build_%26_automate-E8F0FE?style=flat-square&labelColor=0E75B6" alt="3 Build and automate" />
+  &nbsp;➜&nbsp;
+  <img src="https://img.shields.io/badge/4-Measure_%26_improve-E8F0FE?style=flat-square&labelColor=0E75B6" alt="4 Measure and improve" />
+</p>
+
+<br>
+
+## 🛠️ Tech stack
+
+**Zoho ecosystem**
+
+<p>
   <img src="https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho CRM" />
   <img src="https://img.shields.io/badge/Zoho_Creator-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Creator" />
   <img src="https://img.shields.io/badge/Zoho_Analytics-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Analytics" />
   <img src="https://img.shields.io/badge/Zoho_Catalyst-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho Catalyst" />
+  <img src="https://img.shields.io/badge/Deluge-E42527?style=for-the-badge&logo=zoho&logoColor=white" alt="Deluge" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+**Languages & frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,react&theme=light" alt="Python, JavaScript, Java, React" />
 </p>
 
-<details>
-<summary><b>Also worked with</b></summary>
+**Also worked with**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,html,css,sass,tailwind,bootstrap,cpp,git,linux,unity&theme=light&perline=14" alt="Other tools" />
+</p>
+
 <br>
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-</p>
-</details>
 
----
-
-### 🎯 Where I'm heading
+## 🎯 Where I'm heading
 
 <table>
-  <tr>
-    <td align="center" width="33%">🤖<br><b>AI Engineering</b><br><sub>Bringing LLMs and AI into real business workflows</sub></td>
-    <td align="center" width="33%">⚡<br><b>Automation</b><br><sub>Removing repetitive work with smart, reliable automation</sub></td>
-    <td align="center" width="33%">💼<br><b>Business Solutions</b><br><sub>Designing systems around how teams actually work</sub></td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<h3>🤖</h3>
+<b>AI Engineering</b><br>
+<sub>Bringing LLMs into real business workflows</sub>
+</td>
+<td align="center" width="33%">
+<h3>⚡</h3>
+<b>Intelligent Automation</b><br>
+<sub>Removing repetitive work with reliable, smart systems</sub>
+</td>
+<td align="center" width="33%">
+<h3>💼</h3>
+<b>Business Solutions</b><br>
+<sub>Designing systems around how teams actually work</sub>
+</td>
+</tr>
 </table>
 
----
+<br>
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/vishnu-ravva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/vishnuravva" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://twitter.com/vishnuravva" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://stackoverflow.com/users/18533134" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://instagram.com/vishnu_ravva" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://fb.com/vishnu.ravva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-<p align="center"><sub>Thanks for stopping by ✨</sub></p>
+<p align="center"><i>Have a process that should run itself? Let's talk.</i></p>
+
+<!-- ============ FOOTER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E9C,100:0E75B6&height=110&section=footer" alt="" width="100%" />
+</p>
