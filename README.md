@@ -105,23 +105,6 @@ APIs, webhooks and serverless functions that connect Zoho with the rest of the b
 
 <br>
 
-## 🔄 How I work
-
-```mermaid
-flowchart LR
-    S1["<b>1. Understand</b><br/>How the team really works"] --> S2["<b>2. Design</b><br/>The right solution"]
-    S2 --> S3["<b>3. Build & automate</b><br/>Workflows, apps, integrations"]
-    S3 --> S4["<b>4. Measure & improve</b><br/>Track impact, then refine"]
-    S4 -.->|continuous improvement| S1
-
-    classDef s fill:#132E5C,stroke:#2F7BFF,stroke-width:2px,color:#FFFFFF
-    classDef last fill:#0E5C4A,stroke:#39D98A,stroke-width:2px,color:#FFFFFF
-    class S1,S2,S3 s
-    class S4 last
-```
-
-<br>
-
 ## 🛠️ Tech stack
 
 **Zoho ecosystem**
