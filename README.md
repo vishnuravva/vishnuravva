@@ -50,24 +50,6 @@ previously: [Mugen Software Design, Innobyte Services]
 
 <br>
 
-## ⚡ A typical automation I build
-
-```mermaid
-flowchart LR
-    A([🌐 New lead arrives]) --> B{{⚙️ Rules evaluated}}
-    B -->|Territory / source| C[👤 Owner assigned]
-    C --> D[🔔 Team notified]
-    D --> E[(📊 Dashboard updated)]
-
-    classDef start fill:#0A1830,stroke:#2F7BFF,stroke-width:2px,color:#FFFFFF
-    classDef step fill:#132E5C,stroke:#2F7BFF,stroke-width:2px,color:#FFFFFF
-    classDef done fill:#0E5C4A,stroke:#39D98A,stroke-width:2px,color:#FFFFFF
-    class A start
-    class B,C,D step
-    class E done
-```
-
-<br>
 
 ## 🧩 What I build
 
