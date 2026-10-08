@@ -1,16 +1,16 @@
-<!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1F4E9C&height=190&section=header&text=Vishnu%20Ravva&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Business%20Applications%20Developer%20%E2%80%A2%20Zoho%20Ecosystem%20%E2%80%A2%20Automation&descSize=16&descAlignY=58" alt="Vishnu Ravva" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1830,50:132E5C,100:0E5C8C&height=200&section=header&text=Vishnu%20Ravva&fontSize=56&fontColor=FFFFFF&fontAlignY=42&desc=Business%20Applications%20Developer%20%E2%80%A2%20Zoho%20Ecosystem%20%E2%80%A2%20Automation&descSize=18&descAlignY=68&descColor=BFD6FF&animation=fadeIn" alt="Vishnu Ravva" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=0E75B6&center=true&vCenter=true&width=640&lines=I+turn+manual+business+processes+into+automated+systems;Zoho+CRM+%E2%80%A2+Creator+%E2%80%A2+Analytics+%E2%80%A2+Catalyst;Now+exploring+Python+and+AI-driven+automation" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=2F7BFF&center=true&vCenter=true&width=700&lines=I+turn+manual+business+processes+into+automated+systems;Zoho+CRM+%E2%80%A2+Creator+%E2%80%A2+Analytics+%E2%80%A2+Catalyst;Now+exploring+Python+and+AI-driven+automation" alt="I turn manual business processes into automated systems" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vishnu-ravva"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Experience-3%2B_years-1F4E9C?style=for-the-badge" alt="3+ years experience" />
+  <img src="https://img.shields.io/badge/Experience-3%2B_years-132E5C?style=for-the-badge" alt="3+ years experience" />
   <img src="https://img.shields.io/badge/Focus-Business_Automation-0E75B6?style=for-the-badge" alt="Focus: business automation" />
+  <img src="https://komarev.com/ghpvc/?username=vishnuravva&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br>
@@ -50,52 +50,93 @@ previously: [Mugen Software Design, Innobyte Services]
 
 <br>
 
+## ⚡ A typical automation I build
+
+```mermaid
+flowchart LR
+    A([🌐 New lead arrives]) --> B{{⚙️ Rules evaluated}}
+    B -->|Territory / source| C[👤 Owner assigned]
+    C --> D[🔔 Team notified]
+    D --> E[(📊 Dashboard updated)]
+
+    classDef start fill:#0A1830,stroke:#2F7BFF,stroke-width:2px,color:#FFFFFF
+    classDef step fill:#132E5C,stroke:#2F7BFF,stroke-width:2px,color:#FFFFFF
+    classDef done fill:#0E5C4A,stroke:#39D98A,stroke-width:2px,color:#FFFFFF
+    class A start
+    class B,C,D step
+    class E done
+```
+
+<br>
+
 ## 🧩 What I build
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>Click any item to expand</sub>
 
-#### ⚙️ CRM customisation & automation
-Workflows, blueprints, assignment logic and custom functions in **Zoho CRM** that keep leads and deals moving without manual follow-up.
+<details>
+<summary><b>⚙️ CRM customisation & automation</b> &nbsp;·&nbsp; <i>Zoho CRM</i></summary>
+<br>
 
-</td>
-<td width="50%" valign="top">
+Workflows, blueprints, assignment logic and custom functions that keep leads and deals moving without manual follow-up.
 
-#### 🧱 Custom business apps
-Purpose-built apps on **Zoho Creator** for operations, approvals, partner portals and internal tools, from forms to full workflows.
+- Lead routing and assignment by territory, source or campaign
+- Stage-based automation, approvals and notifications
+- Custom Deluge functions for logic the standard tools can't handle
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+</details>
 
-#### 📊 Dashboards & reporting
-**Zoho Analytics** reports that give managers a clear, live view of pipeline, performance and operations.
+<details>
+<summary><b>🧱 Custom business apps</b> &nbsp;·&nbsp; <i>Zoho Creator</i></summary>
+<br>
 
-</td>
-<td width="50%" valign="top">
+Purpose-built apps for operations, approvals, partner portals and internal tools, from simple forms to full workflows.
 
-#### 🔗 Integrations & backends
-APIs, webhooks and serverless functions on **Zoho Catalyst** to connect Zoho with the rest of the business stack.
+- Partner and customer portals with role-based access
+- Ticketing, request and approval systems
+- Custom HTML pages and widgets for a cleaner user experience
 
-</td>
-</tr>
-</table>
+</details>
+
+<details>
+<summary><b>📊 Dashboards & reporting</b> &nbsp;·&nbsp; <i>Zoho Analytics</i></summary>
+<br>
+
+Reports and dashboards that give managers a clear, live view of pipeline, performance and operations.
+
+- Sales funnel and conversion tracking
+- Team and territory performance views
+- Data blended from multiple Zoho apps and external sources
+
+</details>
+
+<details>
+<summary><b>🔗 Integrations & backends</b> &nbsp;·&nbsp; <i>Zoho Catalyst, APIs</i></summary>
+<br>
+
+APIs, webhooks and serverless functions that connect Zoho with the rest of the business stack.
+
+- REST API and webhook integrations with third-party platforms
+- Serverless functions and scheduled jobs on Catalyst
+- Data sync between Zoho apps and external systems
+
+</details>
 
 <br>
 
 ## 🔄 How I work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/1-Understand_the_process-E8F0FE?style=flat-square&labelColor=0E75B6" alt="1 Understand the process" />
-  &nbsp;➜&nbsp;
-  <img src="https://img.shields.io/badge/2-Design_the_solution-E8F0FE?style=flat-square&labelColor=0E75B6" alt="2 Design the solution" />
-  &nbsp;➜&nbsp;
-  <img src="https://img.shields.io/badge/3-Build_%26_automate-E8F0FE?style=flat-square&labelColor=0E75B6" alt="3 Build and automate" />
-  &nbsp;➜&nbsp;
-  <img src="https://img.shields.io/badge/4-Measure_%26_improve-E8F0FE?style=flat-square&labelColor=0E75B6" alt="4 Measure and improve" />
-</p>
+```mermaid
+flowchart LR
+    S1["<b>1. Understand</b><br/>How the team really works"] --> S2["<b>2. Design</b><br/>The right solution"]
+    S2 --> S3["<b>3. Build & automate</b><br/>Workflows, apps, integrations"]
+    S3 --> S4["<b>4. Measure & improve</b><br/>Track impact, then refine"]
+    S4 -.->|continuous improvement| S1
+
+    classDef s fill:#132E5C,stroke:#2F7BFF,stroke-width:2px,color:#FFFFFF
+    classDef last fill:#0E5C4A,stroke:#39D98A,stroke-width:2px,color:#FFFFFF
+    class S1,S2,S3 s
+    class S4 last
+```
 
 <br>
 
@@ -114,14 +155,14 @@ APIs, webhooks and serverless functions on **Zoho Catalyst** to connect Zoho wit
 **Languages & frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,react&theme=light" alt="Python, JavaScript, Java, React" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,react" alt="Python, JavaScript, Java, React" />
 </p>
 
-**Also worked with**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,html,css,sass,tailwind,bootstrap,cpp,git,linux,unity&theme=light&perline=14" alt="Other tools" />
-</p>
+<details>
+<summary><b>Also worked with</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,mongodb,mysql,html,css,sass,tailwind,bootstrap,cpp,git,linux,unity&perline=14" alt="Node.js, Express, Next.js, MongoDB, MySQL, HTML, CSS, Sass, Tailwind, Bootstrap, C++, Git, Linux, Unity" />
+</details>
 
 <br>
 
@@ -159,9 +200,6 @@ APIs, webhooks and serverless functions on **Zoho Catalyst** to connect Zoho wit
   <a href="https://fb.com/vishnu.ravva" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
-<p align="center"><i>Have a process that should run itself? Let's talk.</i></p>
-
-<!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E9C,100:0E75B6&height=110&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E5C8C,50:132E5C,100:0A1830&height=110&section=footer&text=Have%20a%20process%20that%20should%20run%20itself%3F%20Let's%20talk.&fontSize=24&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" alt="Have a process that should run itself? Let's talk." width="100%" />
 </p>
